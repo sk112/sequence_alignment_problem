@@ -46,9 +46,9 @@ Made with [contrib.rocks](https://contrib.rocks).
 ### Contributions
 
 ##### Coding
-- Sameer Khan Mohammad(Memory Efficient Version)
-- Manidhar Mulagapaka(String Generator)
-- Namrata Vasant Naik(Basic Version)
+- Sameer Khan Mohammad (Memory Efficient Version)
+- Manidhar Mulagapaka (String Generator)
+- Namrata Vasant Naik (Basic Version)
 ##### Testing: 
 - Namrata Vasant Naik
 - Sameer Khan Mohammad
@@ -61,3 +61,5 @@ Made with [contrib.rocks](https://contrib.rocks).
 ##### Code Version Control
 - Manidhar Mulagapaka
 
+
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
