@@ -60,6 +60,3 @@ Made with [contrib.rocks](https://contrib.rocks).
   
 ##### Code Version Control
 - Manidhar Mulagapaka
-
-
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
